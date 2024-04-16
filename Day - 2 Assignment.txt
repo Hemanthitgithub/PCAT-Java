@@ -26,7 +26,7 @@ Linear time complexity (O(n)), making it more efficient than the recursive appro
 Lower memory usage as it does not rely on function call stack.
 Cons:
 More complex implementation compared to the recursive approach.
-
+====================================================================================================
 2. Write pseudocode and create a flowchart for a bubble sort algorithm. Provide a brief explanation of how the algorithm works and a simple array of integers to demonstrate a dry run of your algorithm
 
 Procedure BubbleSort(A : list of sortable items)
